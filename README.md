@@ -1,1 +1,1 @@
-# odin-recipes
+During this project I will test and practice the HTML knowledge I've acquired by creating a simple website consisting of several pages.I will create a boilerplate, links to the website's pages and pictures, create headings, lists and paragraphs.
